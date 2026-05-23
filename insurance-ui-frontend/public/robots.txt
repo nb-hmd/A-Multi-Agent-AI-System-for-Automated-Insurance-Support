@@ -1,0 +1,29 @@
+# Insurance AI Assistant
+
+Professional multi-agent insurance support system with modern web interface.
+
+## Features
+- AI-powered insurance assistance
+- Multi-agent system architecture
+- Real-time chat interface
+- Comprehensive policy management
+- Claims processing
+- Billing and analytics
+- Professional enterprise design
+
+## Technology Stack
+- React 18 with Material-UI
+- Node.js with Express.js
+- WebSocket real-time communication
+- JWT authentication
+- SQLite and ChromaDB integration
+
+## Getting Started
+1. Install dependencies: `npm install`
+2. Start development server: `npm start`
+3. Open http://localhost:3000
+
+## Demo Accounts
+- Customer: customer/customer123
+- Agent: agent/agent123
+- Admin: admin/admin123

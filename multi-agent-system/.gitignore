@@ -1,0 +1,7 @@
+.env
+chroma_db
+insurance_support.db
+*.log
+__pycache__/
+*.db-wal
+*.db-shm
