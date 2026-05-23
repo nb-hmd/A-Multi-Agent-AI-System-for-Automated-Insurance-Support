@@ -54,7 +54,7 @@ User → React Frontend
 | ---------------------- | ------------ | -------------------------------------------------- |
 | LangGraph              | 0.0.64       | Multi-agent orchestration framework                |
 | LangChain              | 0.0.350      | LLM integration utilities                          |
-| OpenAI GPT-4o-mini     | via API      | Intent classification, response generation, vision |
+| OpenAI GPT-5-mini      | via API      | Intent classification, response generation, vision |
 | ChromaDB               | 0.4.18       | Persistent vector store for RAG                    |
 | Sentence Transformers  | latest       | Semantic embeddings                                |
 | Scikit-learn TF-IDF    | latest       | Fallback FAQ retrieval (60K features)              |
